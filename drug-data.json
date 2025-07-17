@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Paracetamol",
+    "uses": "Pain relief, fever reducer",
+    "side_effects": ["Nausea", "Rash", "Liver damage"],
+    "dosage": "500mg every 4–6 hours"
+  },
+  {
+    "name": "Amoxicillin",
+    "uses": "Treat bacterial infections",
+    "side_effects": ["Diarrhea", "Rash", "Allergic reaction"],
+    "dosage": "500mg every 8 hours"
+  }
+]
